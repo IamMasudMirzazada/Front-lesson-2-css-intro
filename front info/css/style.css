@@ -1,0 +1,27 @@
+ 
+a{
+    text-decoration: none;
+}
+form input{
+width: 100%;
+ border-radius: 5px;
+ border: 1px solid grey;
+ margin-top: 15px;
+ height: 40px;
+ background-color: rgb(248, 244, 207);
+}
+
+form{
+    padding: 20px 20px;
+    background-color: white;
+    margin: 130px auto;
+    background-color: rgb(169, 170, 166);
+}
+#ckbox{
+     margin-top: 0px;
+     height: 10px;
+     width: 10px;
+}
+h2{
+    text-align: center;
+}
